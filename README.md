@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2580-circular-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
