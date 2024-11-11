@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0070-climbing-stairs) |
 | [0728-self-dividing-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
+| [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3291-find-if-array-can-be-sorted) |
@@ -130,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
