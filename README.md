@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
