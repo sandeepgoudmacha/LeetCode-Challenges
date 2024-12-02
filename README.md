@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0071-simplify-path) |
 | [0812-rotate-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1197-parsing-a-boolean-expression) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0071-simplify-path) |
 | [1197-parsing-a-boolean-expression](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
