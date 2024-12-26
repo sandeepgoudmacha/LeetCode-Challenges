@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
 | [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2554-minimum-total-distance-traveled) |
