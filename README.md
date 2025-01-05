@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
 | [2554-minimum-total-distance-traveled](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2358-number-of-ways-to-split-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
