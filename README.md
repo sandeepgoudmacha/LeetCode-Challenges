@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2358-number-of-ways-to-split-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
