@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2232-adding-spaces-to-a-string) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
