@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
