@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2685-first-completely-painted-row-or-column](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
