@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1137-height-checker](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1137-height-checker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1137-height-checker](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2554-minimum-total-distance-traveled) |
@@ -358,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
+| [1137-height-checker](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
