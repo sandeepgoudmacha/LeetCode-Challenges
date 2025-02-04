@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
