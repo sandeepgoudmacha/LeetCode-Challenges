@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
+| [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
