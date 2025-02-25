@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1137-height-checker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1447-jump-game-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
+| [1447-jump-game-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1036-rotting-oranges) |
+| [1447-jump-game-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1447-jump-game-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
