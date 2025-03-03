@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
