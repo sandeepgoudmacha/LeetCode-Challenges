@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0070-climbing-stairs) |
 | [0728-self-dividing-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
+| [2649-count-total-number-of-colored-cells](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
