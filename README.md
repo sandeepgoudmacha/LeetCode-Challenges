@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
+| [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 <!---LeetCode Topics End-->
