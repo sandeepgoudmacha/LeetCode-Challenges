@@ -1,13 +1,6 @@
 class Solution {
 public:
-    void dfs(int i, vector<int>&v, vector<vector<int>>&isConnected){
-        v[i]=1;
-        for(auto x:isConnected[i]){
-            if(!v[x]){
-                dfs(x,v,isConnected);
-            }
-        }
-    }
+
 
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n=isConnected.size();
@@ -25,7 +18,19 @@ public:
         for(int i=0;i<n;i++){
             if(!a[i]){
                 c++;
-                dfs(i,a,v);
+                queue<int>q;
+                q.push(i);
+                a[i]=1;
+                while(!q.empty()){
+                    int r=q.front();
+                    q.pop();
+                    for(auto x: v[r]){
+                        if(!a[x]){
+                            a[x]=1;
+                            q.push(x);
+                        }
+                    }
+                }
             }
         }
         return c;
