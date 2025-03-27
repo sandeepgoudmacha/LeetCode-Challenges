@@ -16,7 +16,7 @@ public:
                 while(!q.empty()){
                     int r=q.front();
                     q.pop();
-                    for (int j = 0; j < n; j++) {
+                    for (int j = 0; j < isConnected[r].size(); j++) {
                         if (isConnected[r][j] && !a[j]) {
                             a[j] = 1;
                             q.push(j);
