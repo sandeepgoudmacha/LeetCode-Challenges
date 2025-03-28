@@ -2,74 +2,34 @@ class Solution {
 public:
     int orangesRotting(vector<vector<int>>& v) {
         queue<pair<int,int>>q;
-        vector<vector<bool>>vis(v.size(),vector<bool>(v[0].size(),false));
-        for(int i=0;i<v.size();i++)
-        {
-            for(int j=0;j<v[i].size();j++)
-            {
-                if(v[i][j]==2){
-                    q.push({i,j});
-                    vis[i][j]=true;
-                }
+        int n=v.size();
+        int m=v[0].size();
+        int total=0,minutes=0,count=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(v[i][j]==2) q.push({i,j});
+                if(v[i][j]!=0) total++;
             }
         }
-        int count=0;
-        while(!q.empty())
-        {
-            int size=q.size();
-            int flag=0;
-            for(int k=0;k<size;k++)
-            {
-                pair<int,int>p=q.front();
-                int i=p.first;
-                int j=p.second;
-                cout<<i<<" "<<j<<endl;
+        int directionX[4] = {-1,1,0,0};
+        int directionY[4] = {0,0,-1,1};
+        while(!q.empty()){
+             int queueSize = q.size();
+             count+=queueSize;
+            //  int i=0;
+             while(queueSize--){
+                int qX = q.front().first, qY = q.front().second;
                 q.pop();
-                if(i+1<v.size() && !vis[i+1][j] && v[i+1][j]==1)
-                {
-                    v[i+1][j]=2;
-                    vis[i+1][j]=true;
-                    flag++;
-                    q.push({i+1,j});
-                    cout<<vis[i+1][j]<<endl;
+                for(int i=0;i<4;i++){
+                    int impDirectionX = qX+directionX[i], impDirectionY = qY+directionY[i];
+                    if( impDirectionX<0||impDirectionY <0||impDirectionX>=n||impDirectionY >=m || v[impDirectionX][impDirectionY] != 1 ) continue;
+                    v[impDirectionX][impDirectionY]=2;
+                    q.push({impDirectionX,impDirectionY});
                 }
-
-                if(i-1>=0 && !vis[i-1][j] && v[i-1][j]==1)
-                {
-                    v[i-1][j]=2;
-                    vis[i-1][j]=true;
-                    flag++;
-                    q.push({i-1,j});
-                }
-
-                if(j+1<v[0].size() && !vis[i][j+1] && v[i][j+1]==1)
-                {
-                    v[i][j+1]=2;
-                    vis[i][j+1]=true;
-                    flag++;
-                    q.push({i,j+1});
-                }
-
-                if(j-1>=0 && !vis[i][j-1] && v[i][j-1]==1)
-                {
-                    v[i][j-1]=2;
-                    vis[i][j-1]=true;
-                    flag++;
-                    q.push({i,j-1});
-                }
-            }
-            if(flag>0)
-                count++;
+                
+             }
+             if(!q.empty()) minutes++;
         }
-        // if(flag>0) count++;
-        for(int i=0;i<v.size();i++)
-        {
-            for(int j=0;j<v[i].size();j++)
-            {
-                if(v[i][j]==1)
-                    return -1;
-            }
+        return (total == count)? minutes:-1; 
         }
-        return count;
-    }
 };
