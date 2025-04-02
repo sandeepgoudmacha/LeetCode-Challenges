@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
