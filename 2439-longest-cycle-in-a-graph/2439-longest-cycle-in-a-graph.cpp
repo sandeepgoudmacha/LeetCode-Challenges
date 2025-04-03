@@ -1,7 +1,7 @@
 class Solution {
 public:
     void dfs(vector<int>&v,vector<pair<int,int>>&path,vector<int>& edges,int i,int d,int &w){
-        if(i==-1 || v[i]) return;
+        if(i==-1 ) return;
         v[i]=1;
         path[i].first=1;
         path[i].second=d;
