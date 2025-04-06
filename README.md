@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0127-word-ladder) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1755-defuse-the-bomb) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
