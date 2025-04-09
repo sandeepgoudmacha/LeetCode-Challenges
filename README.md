@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
