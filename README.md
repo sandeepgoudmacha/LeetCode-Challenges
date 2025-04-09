@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0127-word-ladder) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
