@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2551-apply-operations-to-an-array) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
