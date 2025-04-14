@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0070-climbing-stairs) |
 | [0728-self-dividing-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0142-linked-list-cycle-ii) |
