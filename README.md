@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2439-longest-cycle-in-a-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2455-node-with-highest-edge-score) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Linked List
 |  |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2439-longest-cycle-in-a-graph) |
 ## Design
 |  |
