@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0228-summary-ranges) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
@@ -500,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0820-find-eventual-safe-states) |
@@ -598,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2439-longest-cycle-in-a-graph) |
