@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -492,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -598,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1073-number-of-enclaves) |
 ## Topological Sort
