@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2001-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2554-minimum-total-distance-traveled) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## String
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2104-operations-on-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2308-divide-array-into-equal-pairs) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2439-longest-cycle-in-a-graph) |
@@ -634,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2439-longest-cycle-in-a-graph) |
 ## Design
