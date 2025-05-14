@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3451-string-compression-iii) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3643-zero-array-transformation-ii) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -577,10 +581,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
