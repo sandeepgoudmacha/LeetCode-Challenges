@@ -1,12 +1,11 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        n--;
-        double sqrt5 = sqrt(5);
-
-        sqrt5 = ((sqrt5 + 3) / (2 * sqrt5)) * pow(((1 + sqrt5) / 2), n) +
-            ((sqrt5 - 3) / (2 * sqrt5)) * pow(((1 - sqrt5) / 2), n) + 0.5f;
-
-        return sqrt5;
+       vector<int>dp(n+1,-1);
+       dp[0]=1;dp[1]=1;
+       for(int i=2;i<=n;i++){
+        dp[i]=dp[i-1]+dp[i-2];
+       }
+       return dp[n];
     }
 };
