@@ -6,8 +6,10 @@ public:
         q.push({0,{1,0}});
         vis.insert({0,1});
         while(!q.empty()){
-            auto [p,a]=q.front(); q.pop();
-            int s=a.first,c=a.second;
+            auto top=q.front(); q.pop();
+            int p=top.first;
+            int s=top.second.first,c=top.second.second;
+            // cout<<p<<" "<<s<<" "<<c<<endl;
             if(p==target) 
                 return c;
             int np=p+s,ns=s*2;
