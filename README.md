@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3113-beautiful-towers-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3113-beautiful-towers-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
