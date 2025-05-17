@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0164-maximum-gap) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0164-maximum-gap) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0142-linked-list-cycle-ii) |
