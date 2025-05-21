@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0142-linked-list-cycle-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
