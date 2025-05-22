@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1197-parsing-a-boolean-expression) |
 ## Memoization
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0886-score-of-parentheses) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1078-remove-outermost-parentheses) |
