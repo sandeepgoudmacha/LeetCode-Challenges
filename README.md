@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Backtracking
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Number Theory
 |  |
 | ------- |
