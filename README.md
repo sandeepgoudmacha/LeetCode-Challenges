@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0162-find-peak-element) |
 | [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1046-max-consecutive-ones-iii) |
