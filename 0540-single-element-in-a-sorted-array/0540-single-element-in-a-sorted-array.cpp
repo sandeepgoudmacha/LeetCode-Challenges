@@ -13,7 +13,7 @@ public:
             else if((nums[mid]==nums[mid+1] && mid%2!=0 )|| (nums[mid]==nums[mid-1] && mid%2==0)) r=mid-1;
             else l=mid+1;
             }
-            else return nums[mid];
+            // else return nums[mid];
            
         }
         return nums[l];
