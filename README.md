@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1036-rotting-oranges) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1184-car-pooling) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0940-fruit-into-baskets) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1755-defuse-the-bomb) |
 | [2001-jump-game-vii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2001-jump-game-vii) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
