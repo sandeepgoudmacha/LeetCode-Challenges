@@ -16,6 +16,6 @@ public:
             // else return nums[mid];
            
         }
-        return nums[l];
+        return -1;
     }
 };
