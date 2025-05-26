@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3451-string-compression-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3636-check-balanced-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3636-check-balanced-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Tree
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3321-type-of-triangle) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
 |  |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -596,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 ## Monotonic Queue
 |  |
 | ------- |
