@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1755-defuse-the-bomb) |
 | [2001-jump-game-vii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2001-jump-game-vii) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
