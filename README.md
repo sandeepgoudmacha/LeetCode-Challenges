@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3113-beautiful-towers-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3113-beautiful-towers-ii) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2358-number-of-ways-to-split-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3427-special-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2001-jump-game-vii) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
