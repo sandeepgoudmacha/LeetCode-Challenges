@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
@@ -130,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0078-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
