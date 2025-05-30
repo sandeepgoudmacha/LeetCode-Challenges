@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3321-type-of-triangle) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3427-special-array-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3643-zero-array-transformation-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Greedy
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3427-special-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3427-special-array-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Sliding Window
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Number Theory
 |  |
