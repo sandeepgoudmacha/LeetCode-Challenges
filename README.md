@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0164-maximum-gap) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
