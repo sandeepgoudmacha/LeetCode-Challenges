@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0461-hamming-distance) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1940-maximum-xor-for-each-query) |
