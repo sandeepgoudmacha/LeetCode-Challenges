@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0461-hamming-distance) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2422-query-kth-smallest-trimmed-number) |
