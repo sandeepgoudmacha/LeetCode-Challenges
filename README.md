@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2032-largest-odd-number-in-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0240-search-a-2d-matrix-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 ## Dynamic Programming
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
