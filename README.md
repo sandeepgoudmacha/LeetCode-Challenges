@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2050-count-good-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2649-count-total-number-of-colored-cells) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2032-largest-odd-number-in-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2199-two-furthest-houses-with-different-colors) |
