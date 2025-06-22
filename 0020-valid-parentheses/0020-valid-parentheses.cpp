@@ -2,22 +2,19 @@
 class Solution {
 public:
     bool isValid(std::string s) {
-        stack<char> stack;
-        unordered_map<char, char> map;
-        map[')'] = '(';
-        map['}'] = '{';
-        map[']'] = '[';
-        for (char c : s) {
-            if (map.count(c) == 0) {
-                stack.push(c);
-            } else {
-                if (stack.empty() || stack.top() != map[c]) {
-                    return false;
-                }
-                stack.pop();
-            }
+        if(s.length()<2) return 0;
+       stack<char>st;
+       map<char,char>m;
+       m[')']='(';
+       m['}']='{';
+       m[']']='[';
+       for(auto x:s){
+        if(m.count(x)==0){ 
+            st.push(x);
         }
-
-        return stack.empty(); 
+        else if(st.empty() || m[x]!=st.top()) return 0;
+        else if(m[x]==st.top()) st.pop();
+       }
+       return st.empty();
     }
 };
