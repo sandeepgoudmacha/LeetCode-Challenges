@@ -1,33 +1,48 @@
 class MyStack {
 public:
-int size;
-int t;
-int * arr;
+    queue<int>q1;
+    int c=0;
     MyStack() {
-        t=-1;
-        size=101;
-        arr=new int[size];
+
     }
     
     void push(int x) {
-        t++;
-        arr[t]=x;
+        // q1=q2;
+        q1.push(x);
+        // c++;
     }
     
     int pop() {
-        if(t==-1) return -1;
-        int p=t;
-        t--;
-        return arr[p];
+        // q2=q1;
+            queue<int>q2;
+        int f=0;
+        while(q1.size()>1){
+            q2.push(q1.front());
+            q1.pop();
+        }
+        f=q1.front();
+        q1.pop();
+        q1=q2;
+        // c--;
+        return f;
     }
     
     int top() {
-        if(t==-1) return -1;
-        return arr[t];
+            queue<int>q2;
+        // q2=q1;
+        int f=0,i=0;
+        while(q1.size()>1){
+            q2.push(q1.front());
+            q1.pop();
+        }
+        f=q1.front();
+        q2.push(f);
+        q1=q2;
+        return f;
     }
     
     bool empty() {
-        if(t==-1) return 1;
+        if(q1.empty()) return 1;
         return 0;
     }
 };
