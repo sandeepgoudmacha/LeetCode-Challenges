@@ -32,7 +32,7 @@ stack<int>st;
         }
         int f=st.top();
         st.pop();
-        st.push(f);
+        s.push(f);
         while(!s.empty()){
             st.push(s.top());
             s.pop();
