@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0503-next-greater-element-ii) |
 | [0886-score-of-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1078-remove-outermost-parentheses) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3113-beautiful-towers-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3113-beautiful-towers-ii) |
