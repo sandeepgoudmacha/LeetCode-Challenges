@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1447-jump-game-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1524-string-matching-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1184-car-pooling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2032-largest-odd-number-in-string) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1184-car-pooling) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2692-take-gifts-from-the-richest-pile) |
