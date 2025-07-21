@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1524-string-matching-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1524-string-matching-in-an-array) |
