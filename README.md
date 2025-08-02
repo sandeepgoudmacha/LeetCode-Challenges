@@ -843,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0232-implement-queue-using-stacks) |
 | [0955-complete-binary-tree-inserter](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0955-complete-binary-tree-inserter) |
 | [2104-operations-on-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2104-operations-on-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
