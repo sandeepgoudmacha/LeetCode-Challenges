@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1646-kth-missing-positive-number) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1628-count-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2001-jump-game-vii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2227-sum-of-subarray-ranges) |
 | [3113-beautiful-towers-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3113-beautiful-towers-ii) |
