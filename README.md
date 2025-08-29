@@ -870,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0585-investments-in-2016) |
