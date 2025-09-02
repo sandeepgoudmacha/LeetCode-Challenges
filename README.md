@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3321-type-of-triangle) |
 | [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 ## Array
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3321-type-of-triangle) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 ## Dynamic Programming
 |  |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3321-type-of-triangle) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -882,4 +886,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0608-tree-node) |
 | [1179-game-play-analysis-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1179-game-play-analysis-i) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
