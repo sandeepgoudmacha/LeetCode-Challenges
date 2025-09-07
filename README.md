@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0075-sort-colors) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0151-reverse-words-in-a-string) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0141-linked-list-cycle) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0148-sort-list) |
