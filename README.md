@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
 | [0836-race-car](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0836-race-car) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0482-license-key-formatting) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0392-is-subsequence) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0908-middle-of-the-linked-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1468-check-if-n-and-its-double-exist) |
