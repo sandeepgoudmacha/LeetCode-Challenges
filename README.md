@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2465-shifting-letters-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2465-shifting-letters-ii) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2580-circular-sentence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2509-minimize-xor](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2509-minimize-xor) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2551-apply-operations-to-an-array) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
