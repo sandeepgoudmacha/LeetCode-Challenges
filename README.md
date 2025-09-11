@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0965-unique-email-addresses) |
 | [1036-rotting-oranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0965-unique-email-addresses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1197-parsing-a-boolean-expression) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1044-find-common-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1447-jump-game-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1447-jump-game-iv) |
