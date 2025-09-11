@@ -11,18 +11,12 @@ public:
             for(int j=i+1;j<words.size();j++){
                 string b=words[j];
                 // int k=0,l=0;
-                for(int i=0;i<=b.length()-a.length();i++){
-                    int l=0;
-                    while(l<a.length() && b[i+l]==a[l]){
-                        l++;
-                    }
-                     if(l==a.length()){
+                if(b.find(a)!=string::npos){
                     v.push_back(a);
-                    goto g;
-                }
+                    break;
                 }
                
-            } g:
+            }
         }
         return v;
     }
