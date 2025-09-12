@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0735-asteroid-collision) |
 | [0787-sliding-puzzle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0787-sliding-puzzle) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
