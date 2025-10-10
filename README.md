@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0303-range-sum-query-immutable) |
 | [0955-complete-binary-tree-inserter](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0955-complete-binary-tree-inserter) |
 | [2104-operations-on-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2104-operations-on-tree) |
 ## Database
