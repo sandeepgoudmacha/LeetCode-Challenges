@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0482-license-key-formatting) |
 | [0812-rotate-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0812-rotate-string) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0496-next-greater-element-i) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0940-fruit-into-baskets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
