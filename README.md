@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3419-maximum-points-inside-the-square](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3419-maximum-points-inside-the-square) |
 | [3451-string-compression-iii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3419-maximum-points-inside-the-square](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3419-maximum-points-inside-the-square) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3321-type-of-triangle) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3419-maximum-points-inside-the-square](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3419-maximum-points-inside-the-square) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Tree
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String Matching
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
