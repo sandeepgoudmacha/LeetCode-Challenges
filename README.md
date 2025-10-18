@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3419-maximum-points-inside-the-square](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3419-maximum-points-inside-the-square) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Tree
 |  |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String Matching
