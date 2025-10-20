@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-operations-on-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2001-jump-game-vii) |
 | [2032-largest-odd-number-in-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2232-adding-spaces-to-a-string) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2692-take-gifts-from-the-richest-pile) |
