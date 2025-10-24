@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
 ## Dynamic Programming
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-operations-on-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2455-node-with-highest-edge-score](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2455-node-with-highest-edge-score) |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
