@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2104-operations-on-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2104-operations-on-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1073-number-of-enclaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2104-operations-on-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2104-operations-on-tree) |
