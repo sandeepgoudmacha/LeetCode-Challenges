@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0542-01-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0836-race-car](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0836-race-car) |
 | [0943-sum-of-subarray-minimums](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1013-fibonacci-number) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0482-license-key-formatting) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
