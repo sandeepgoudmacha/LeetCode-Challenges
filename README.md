@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3783-permutations-iv](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3783-permutations-iv) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3194-find-words-containing-character) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
