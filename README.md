@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3113-beautiful-towers-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3113-beautiful-towers-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
