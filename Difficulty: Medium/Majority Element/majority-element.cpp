@@ -2,20 +2,25 @@ class Solution {
   public:
     int majorityElement(vector<int>& arr) {
         // code here
-        map<int,int>m;
-        int n=arr.size();
-        for(auto x: arr){
-            m[x]++;
-        }
-        int maxi=0, res=-1, same=0;
-        for(auto x:m){
-          
-           if(maxi<x.second){
-               maxi=x.second;
-               res=x.first;
+       int n=arr.size();
+       int count=0,element=-1;
+       for(int i=0;i<n;i++){
+           if(count==0){
+               count++;
+               element=arr[i];
            }
-        }
-        if(maxi>(n/2)) return res;
-        return -1;
+           else if(element == arr[i]) count++;
+           else{
+               count--;
+           }
+       }
+       int c1=0;
+       for(int i=0;i<n;i++){
+           if(arr[i] == element) c1++;
+       }
+       if(c1>n/2) return element;
+       
+      
+       return -1;
     }
 };
