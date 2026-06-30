@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0073-set-matrix-zeroes) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0240-search-a-2d-matrix-ii) |
